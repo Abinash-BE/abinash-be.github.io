@@ -425,7 +425,7 @@ span{
 }
 .project-box{
     background-color: var(--main-color);
-    height: 300px;
+    height: 370px;
     border-radius: 3rem;
     border: 5px solid transparent;
     cursor: pointer;
@@ -437,6 +437,7 @@ color: black;
 border: 5px solid var(--main-color);
 transform: scale(1.03);
 }
+
 .project-box .project-info{
 display: flex;
 flex-direction: column;
